@@ -1,6 +1,12 @@
 # term-img
 
-View images in a terminal.
+View images in a terminal, Python 3 edition.
+
+
+<table><tr>
+<td><img src="screenshot-1.png"></td>
+<td><img src="screenshot-2.png"></td>
+</tr></table>
 
 ## Requirements
 
@@ -12,14 +18,6 @@ Minimal, you probably already have most of these installed (maybe not PIL).
 - Python 3
 - [Pillow / PIL](https://python-pillow.org) for Python 3 (`python3-pil` in Debian / Ubuntu). *Not to be confused with regular PIL for Python 2*
 - tput
-
-## Screenshots
-
-<table><tr>
-<td><img src="screenshot-1.png"></td>
-<td><img src="screenshot-2.png"></td>
-</tr></table>
-
 
 ## See Also
 
