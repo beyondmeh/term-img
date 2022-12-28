@@ -27,6 +27,6 @@ Minimal, you probably already have most of these installed (maybe not PIL).
 
 ## License
 
-Licensed under the [MIT license](https://github.com/keithieopia/term-img/blob/master/LICENSE).
+Licensed under the [MIT license](https://github.com/beyondmeh/term-img/blob/master/LICENSE).
 
 *This is free software: you are free to change and redistribute it. There is NO WARRANTY, to the extent permitted by law.*
